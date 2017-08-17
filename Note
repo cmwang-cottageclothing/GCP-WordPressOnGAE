@@ -1,4 +1,0 @@
-Basic procedure please read https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/wordpress
-
-There are two types of MySQL server instances.
-A 2nd generation of MySQL ver 5.6 is confirmed that can be used in GAE.
